@@ -16,3 +16,6 @@ https://www.nwb.org/
 
 **Data Sources**
 - http://crcns.org/download
+
+**Open Science Orgs**
+- http://centerforopenneuroscience.org/projects
